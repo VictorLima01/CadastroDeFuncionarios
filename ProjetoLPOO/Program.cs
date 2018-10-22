@@ -8,6 +8,7 @@ namespace ProjetoLPOO_UI
 {
     static class Program
     {
+        //apenas um comentario
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
