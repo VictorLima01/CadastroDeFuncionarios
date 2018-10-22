@@ -1,0 +1,20 @@
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_BLL.dll
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_BLL.pdb
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_DTO.dll
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_DTO.pdb
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.dll
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_BLL.dll
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_BLL.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_DTO.dll
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\bin\Debug\ProjetoLPOO_DTO.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.dll
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.pdb
+E:\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.csprojResolveAssemblyReference.cache
+E:\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.dll
+E:\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.pdb
+G:\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.csprojResolveAssemblyReference.cache
+G:\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.dll
+G:\ProjetoLPOO\ProjetoLPOO_BLL\obj\Debug\ProjetoLPOO_BLL.pdb

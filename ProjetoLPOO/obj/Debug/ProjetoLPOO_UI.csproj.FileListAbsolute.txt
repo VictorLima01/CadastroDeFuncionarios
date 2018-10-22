@@ -1,0 +1,46 @@
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe.config
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.pdb
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_BLL.dll
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_DTO.dll
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_BLL.pdb
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_DTO.pdb
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.Form1.resources
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.Properties.Resources.resources
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csproj.GenerateResource.Cache
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.exe
+C:\Users\Manager\Documents\Visual Studio 2015\Projects\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe.config
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.exe
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_BLL.dll
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_DTO.dll
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_BLL.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_DTO.pdb
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.Form1.resources
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.Properties.Resources.resources
+C:\Users\Manager\Desktop\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csproj.GenerateResource.Cache
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe.config
+E:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.exe
+E:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.pdb
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.pdb
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_BLL.dll
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_DTO.dll
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_BLL.pdb
+E:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO_DTO.pdb
+E:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csprojResolveAssemblyReference.cache
+E:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.Form1.resources
+E:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.Properties.Resources.resources
+E:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csproj.GenerateResource.Cache
+G:\ProjetoLPOO\ProjetoLPOO\bin\Debug\ProjetoLPOO.exe.config
+G:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.exe
+G:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.pdb
+G:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csprojResolveAssemblyReference.cache
+G:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.Form1.resources
+G:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO.Properties.Resources.resources
+G:\ProjetoLPOO\ProjetoLPOO\obj\Debug\ProjetoLPOO_UI.csproj.GenerateResource.Cache

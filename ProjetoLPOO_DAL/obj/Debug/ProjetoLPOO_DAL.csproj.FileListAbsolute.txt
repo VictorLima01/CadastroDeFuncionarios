@@ -1,0 +1,2 @@
+E:\ProjetoLPOO\ProjetoLPOO_DAL\obj\Debug\ProjetoLPOO_DAL.csprojResolveAssemblyReference.cache
+G:\ProjetoLPOO\ProjetoLPOO_DAL\obj\Debug\ProjetoLPOO_DAL.csprojResolveAssemblyReference.cache
